@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1557432143 source:d:\utn\laboratorio1\practicas en clase\tp2bertello\bibliotecaarrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"Biblioteca_UTN.h"
+	"BibliotecaArrayEmployees.h"
+
+1557434178 source:d:\utn\laboratorio1\practicas en clase\tp2bertello\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca_UTN.h"
+	"BibliotecaArrayEmployees.h"
+
+1557374302 source:d:\utn\laboratorio1\practicas en clase\tp2bertello\biblioteca_utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"Biblioteca_UTN.h"
+
+1557359229 d:\utn\laboratorio1\practicas en clase\tp2bertello\biblioteca_utn.h
+
+1557440607 d:\utn\laboratorio1\practicas en clase\tp2bertello\bibliotecaarrayemployees.h
+
+1557374302 source:d:\utn\tp_laboratorio_2\biblioteca_utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"Biblioteca_UTN.h"
+
+1557359229 d:\utn\tp_laboratorio_2\biblioteca_utn.h
+
+1557441725 source:d:\utn\tp_laboratorio_2\bibliotecaarrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"Biblioteca_UTN.h"
+	"BibliotecaArrayEmployees.h"
+
+1557440607 d:\utn\tp_laboratorio_2\bibliotecaarrayemployees.h
+
+1557434178 source:d:\utn\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca_UTN.h"
+	"BibliotecaArrayEmployees.h"
+
